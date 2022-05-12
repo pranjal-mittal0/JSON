@@ -1,0 +1,17 @@
+{
+    "Name":"kyle",
+    "age" : 23,
+    "caste":"general",
+    "hobbies":["sking","boling"],
+    "friends":[{
+        "Name": "Joule",
+        "age" : 23,
+        "caste":"general",
+        "hobbies":["sking","boling"]
+    },{
+        "Name": "alime",
+        "age" : 33,
+        "caste":"general",
+        "hobbies":["sking","boling"]
+    }]
+}
